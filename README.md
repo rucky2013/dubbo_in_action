@@ -19,7 +19,7 @@
 
 ## 欢迎fork和反馈
 
-在issue提问或邮件 lixiaoqing6676@gmail.com
+在issue提问或邮件 isnow1112@gmail.com
 
 ## License
 
